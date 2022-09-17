@@ -11,6 +11,7 @@ public:
     DesignMode(QWidget *parent = nullptr);
     ~DesignMode();
 
+
 private:
     Ui::DesignModeClass ui;
 };
